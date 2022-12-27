@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**naz664/naz664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### This is Nazim
 
-Here are some ideas to get you started:
+- 🌱 I’m currently doing B-tech in computer science
+- 🔭 I’m currently working on GSI projects
+- 👯 I’m looking to collaborate on android projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![naz664 GitHub stats](https://github-readme-stats.vercel.app/api?username=naz664)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=naz664)
+
+
+Contact me :
+
+        Telegram : https://t.me/naz664
+       Instagram : https://instagram.com/naz_updates
+           Email : nazimnavas145@gmail.com
